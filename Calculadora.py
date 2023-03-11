@@ -1,6 +1,6 @@
 from tkinter import *
 
-print("ola mundo")
+print("opa")
 
 root = Tk()
 root.title('Sua calculadora')
