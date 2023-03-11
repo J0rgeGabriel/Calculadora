@@ -1,6 +1,7 @@
 from tkinter import *
 
-print("very hard")
+#eu desisto
+
 
 root = Tk()
 root.title('Sua calculadora')
