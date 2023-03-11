@@ -1,7 +1,5 @@
 from tkinter import *
 
-print("ola mundo")
-
 root = Tk()
 root.title('Sua calculadora')
 root.geometry('408x355')
