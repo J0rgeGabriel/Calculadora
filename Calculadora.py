@@ -1,8 +1,5 @@
 from tkinter import *
 
-#eu desisto
-
-
 root = Tk()
 root.title('Sua calculadora')
 root.geometry('408x355')
