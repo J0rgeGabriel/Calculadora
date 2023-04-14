@@ -259,3 +259,4 @@ numero0.grid(row=4, column=1, columnspan=2)
 
 root.mainloop()
 print("opa")
+float(input("digite seu numero"))
